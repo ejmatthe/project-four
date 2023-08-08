@@ -7,6 +7,11 @@ For this project, we changed our focus slightly. We decided to look at worldwide
 ## Creating the Machine Learning Model
 
 ## Visualizing the Data and Creating Dashboards
+    Utilizing Tableau for a visualizations, we wanted to show the domestic suicide 
+    rates in comparison to the world suicide rates. Within that comparison, we 
+    looked at suicide rates, not only by country, but also by gender. You will also 
+    notice that we did the percentage of suicides per country based on total 
+    suicides in the world. 
 
 ## Data Sources
 [russellyates88]. (2018). Suicide Rates Overview 1985 to 2016 [dataset]. Retrieved from https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
