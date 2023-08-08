@@ -7,7 +7,7 @@ For this project, we changed our focus slightly. We decided to look at worldwide
 ## Creating the Machine Learning Model
 
 ## Visualizing the Data and Creating Dashboards
-    Utilizing Tableau for a visualizations, we wanted to show the domestic suicide 
+    Utilizing Tableau for visualizations, we wanted to show the domestic suicide 
     rates in comparison to the world suicide rates. Within that comparison, we 
     looked at suicide rates, not only by country, but also by gender. You will also 
     notice that we did the percentage of suicides per country based on total 
